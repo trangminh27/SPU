@@ -1,1 +1,1 @@
-# SPUecho "# SPU" >> README.md
+# SPU Projects
